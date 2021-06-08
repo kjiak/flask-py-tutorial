@@ -17,4 +17,6 @@ https://realpython.com/dockerizing-flask-with-compose-and-machine-from-localhost
 `docker volume ls` <br>
 
 ### git squash
+`git rebase -i HEAD~4`
+`git push origin dev --force`
 ### git branching

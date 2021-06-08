@@ -1,8 +1,7 @@
 # sample flask app with docker-compose
-aaa111a
-bbb222b
-ccc333c
-ddd444d
+as
+bs
+cs
 ### to run
 `export FLASK_APP=app.py`<br>
 `flask run`<br>

@@ -15,3 +15,6 @@ https://realpython.com/dockerizing-flask-with-compose-and-machine-from-localhost
 `docker-compose up` <br>
 `docker-compose down --volumes` <br>
 `docker volume ls` <br>
+
+### git squash
+### git branching

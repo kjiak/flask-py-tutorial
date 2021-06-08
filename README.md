@@ -1,6 +1,7 @@
 # sample flask app with docker-compose
 a
 b
+c
 ### to run
 `export FLASK_APP=app.py`<br>
 `flask run`<br>
